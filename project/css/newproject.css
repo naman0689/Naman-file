@@ -1,0 +1,99 @@
+.Navigation{
+    display: inline;
+    margin-left: 30%;
+    margin-bottom: 0%;
+    
+}
+
+.space{
+    margin:  10px 50px  10px;
+    font-size: 1.5rem;
+    color: white;
+}
+body{
+    background-color: black;
+}
+.Navigation.space a:hover, .space a.active{
+    text-decoration: underline;
+    color: gray;
+}
+
+.fa {
+    padding: 15px;
+    font-size: 15px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    
+  }
+
+  .fa:hover {
+    opacity: 0.8;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }  
+
+.logo{
+  display: inline-block;
+  position: absolute;
+  left: 5px;
+  top: 5px;
+}
+.logo img{
+  width: 70px;
+}
+.space:hover{
+  color:yellow;
+}
+.Naman{
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  color: white;
+}
+
+.photo{
+  padding-left: 550px;
+  padding-top: 50px;
+  height: 50px;
+  
+}
+.right{
+  text-align: right;
+  padding-top: 1%px;
+ color: white; 
+}
+.right1{
+  text-align: right;
+  padding-top: 30px;
+  color: white;
+}
+.big{
+  color: blue;
+  text-decoration: underline;
+  font-size: 60px;
+}
+.big1{
+  font-size: 20px;
+}
+.bigcoder{
+  color: blue;
+  text-decoration: underline;
+  font-size:60px ;
+}
+.bigcoder1{
+  font-size: 20px;
+}
+.name{
+  
+  color:blue;
+  font-size: 80px;
+}
